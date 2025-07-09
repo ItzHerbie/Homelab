@@ -1,7 +1,7 @@
 <h2>📚 Why I'm Building This Home Lab</h2>
 
 <p>
-  I’m new to home labbing and currently in the early stages of my cybersecurity journey. This home lab is my personal learning environment where I can gain hands-on experience with cybersecurity tools and techniques.
+  I’m new to home labbing and this home lab is my personal learning environment where I can gain hands-on experience with cybersecurity tools and techniques.
 </p>
 
 <p>
