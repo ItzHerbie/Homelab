@@ -29,3 +29,12 @@
 <p>
   This lab is a work in progress, and I'm sharing what I learn along the way. If you're also new to cybersecurity or home labs, I hope this project helps you too!
 </p>
+-----------------------------------------------------------------------------------------
+<h2> Current Lab setup</h2>
+
+<ul>
+ <li><strong>DeskPi RackMate T1</strong></li>
+ <li><strong>Netgear 8 Port Managed Switch</strong></li>
+ <li><strong>Raspberry Pi 3B</strong> - Running as my Syslog Server.</li>
+ <li><strong>Raspberry Pi 5</strong> - Running Suricata as my NIDS and Velociraptor server</li>
+</ul>
