@@ -36,5 +36,5 @@
  <li><strong>DeskPi RackMate T1</strong></li>
  <li><strong>Netgear 8 Port Managed Switch</strong></li>
  <li><strong>Raspberry Pi 3B</strong> - Running as my Syslog Server.</li>
- <li><strong>Raspberry Pi 5</strong> - Running Suricata as my NIDS and Velociraptor server</li>
+ <li><strong>Raspberry Pi 5</strong> - Running Suricata as my NIDS and Velociraptor</li>
 </ul>
